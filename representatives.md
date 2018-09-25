@@ -3,6 +3,7 @@
 ### Clevyr
 * Mike Slack, Makenzie Hill
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer
+* In the spring of 2009 Clevyr was born from the desire to provide custom software that was designed and built with the sole intention of transforming the working lives of our clients. We hope that you consider joining our team!
 
 ### Deep Fork Technology
 * Kris Dillon, Ryan McGivern
