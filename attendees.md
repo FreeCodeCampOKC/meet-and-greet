@@ -7,3 +7,6 @@ C#.NET/SQL Server [consultant](https://www.linkedin.com/in/collins-kimberly/) wi
 
 ### Fernando Ruiz
 Currently working in an IT role and looking for the opportunity to move to full time development. I have completed multiple projects from web applications to games for android devices. Here is a link to my [porfolio](https://linuxuser07.github.io/). 
+
+### Christopher Tse
+I am a senior at OU studying Computer Science graduating in December. My main experience is in JavaScript and web development using Node.js and starting to work on front end technologies such as React. I also have experience with Python and Java through my course work. You can find me at my [website](https://chris-tse.com), [Twitter](https://twitter.com/chrismtse), and [Github](https://github.com/chris-tse). I am also one of the organizers for [FreeCodeCamp Norman](https://www.meetup.com/FreeCodeCamp-Norman) for members of the tech community in Norman and the surrounding area.
