@@ -21,6 +21,13 @@
 * Ryan Johnson
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, Data Analyst
 
+### Rural Sourcing
+* Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer, Quality assurance
+
+### Saxum
+* Zach Gilliam
+* We aren't hiring W2 employees, but we do work with lots of contractors!
+
 ### Tailwind
 * Cody Crow
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer, Android Developer
