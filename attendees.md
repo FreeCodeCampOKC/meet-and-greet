@@ -13,3 +13,6 @@ I am a senior at OU studying Computer Science graduating in December. My main ex
 
 ### Jimmy Kennedy
 I have recently completed the Web Design course From Francis Tuttle and am currently working on the Web Development course, and will soon be seeking front end or back end employment. I also have a Bachelors of Fine Arts, and have worked in every field from retail/food service to Oilfield and Firearm compliance. Currently I am certified in HTML5, CSS, Photoshop, and am working on my SQL certification, and PHP and Javascript. Please visit my portfolio here http://untamableworld.com/portfolio/index.html#top
+
+### Yobani Mendoza
+I’m a front end web development student at Francis Tuttle, I primarily have experience with HTML, CSS and Javascript. I’ve dabbled with PHP for my classes and will be completing my course in February. I’m currently looking for a front end web dev position asap. Here are a few of my links: [portfolio]( http://site13.wdd.francistuttle.edu/) [github]( https://github.com/Yobani1987) [Twitter]( https://twitter.com/yobani_mendoza)
