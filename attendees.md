@@ -10,3 +10,6 @@ Currently working in an IT role and looking for the opportunity to move to full 
 
 ### Christopher Tse
 I am a senior at OU studying Computer Science graduating in December. My main experience is in JavaScript and web development using Node.js and starting to work on front end technologies such as React. I also have experience with Python and Java through my course work. You can find me at my [website](https://chris-tse.com), [Twitter](https://twitter.com/chrismtse), and [Github](https://github.com/chris-tse). I am also one of the organizers for [FreeCodeCamp Norman](https://www.meetup.com/FreeCodeCamp-Norman) for members of the tech community in Norman and the surrounding area.
+
+### Sandi K. Terry
+Mid-life career changer, I am completely new to coding. I am a lifelong learner and love solving problems so I am pretty excited about becoming a programmer. I am currently taking the IT Support program (taught by Google), HTML5 (from U of M), and both Mindshift and Learning How to Learn (from McMaster University), all on Coursera.  Thanks to Techlahoma, I am also beginning to use Free Code Camp to augment these courses so I can become a programmer faster. You can find me at [Twitter] (https://twitter.com/langlearnlife), [Github] (https://github.com/sktmurdock37), and [LinkedIn] (https://linkedin.com/in/sandikterry/).
