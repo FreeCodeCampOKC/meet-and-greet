@@ -13,6 +13,10 @@
 * Danny Burrows
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer
 
+### Life.Church
+* Zach Schmid, Matt Sanders, David Fedor
+* Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer
+
 ### Mosaic Personnel
 * Adam Purdy, Sayra Martinez
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer
