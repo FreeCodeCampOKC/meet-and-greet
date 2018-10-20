@@ -22,7 +22,7 @@
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer
 
 ### MY Consulting Group
-* Ryan Johnson
+* Ryan Johnson, Ryan Burk, Ben Hornbacher
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, Data Analyst
 
 ### Rural Sourcing
