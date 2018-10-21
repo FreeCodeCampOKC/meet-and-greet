@@ -28,3 +28,6 @@ I am an IT professional with 2 years of on-the-job programming experience at the
 
 ### Ryan Johnson
 Software developer at MY Consulting Group. 10 years experience in graphic design and 4 years in software development. Co-organizer of [OKC#](https://www.meetup.com/OKC-Sharp/). Looking for people who want to get involved with Techlahoma, as well as trying to help those looking to learn or break into the industry. [LinkedIn](https://www.linkedin.com/in/ryankeithjohnson)
+
+### Joe Matthews
+Father, friend & programmer.  More than 10 years of IT related experience and 4+ years of full stack experience using Ruby, Rails, Bootstrap, jQuery & PostgreSQL. Currently focusing on learning and applying front-end JavaScript frameworks. Looking to join a motivated team that develops software using agile principles.
