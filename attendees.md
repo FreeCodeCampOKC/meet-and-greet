@@ -24,7 +24,15 @@ Mid-life career changer, I am completely new to coding. I am a lifelong learner 
 I am a senior at OU studying Computer Science graduating in December. My main experience is in JavaScript and web development using Node.js and starting to work on front end technologies such as React. I also have experience with Python and Java through my course work. You can find me at my [website](https://chris-tse.com), [Twitter](https://twitter.com/chrismtse), and [Github](https://github.com/chris-tse). I am also one of the organizers for [FreeCodeCamp Norman](https://www.meetup.com/FreeCodeCamp-Norman) for members of the tech community in Norman and the surrounding area.
 
 ### Austin W Keeton
-I am an IT professional with 2 years of on-the-job programming experience at the University of Oklahoma Parking Services office. There I provide product support for their [T2 Systems](https://www.t2systems.com/home) infrastructure. My passion is using programming to improve the lives of my coworkers and, more broadly, laborers everywhere. Over the past two years at Parking I have used Python to automate away monotonous tasks like invoicing, bulk emailing, and data entry. I have also used Python and SQL to query, aggregate, and organize data from the Parking database (Oracle) for auditing financial data, tracking sales, and spotting bad entries. My vision for my future is creating efficient, intuitive web applications to improve the work flow and job-satisfaction of laborers everywhere. Even more, create full-featured and well-documented APIs that allow developers to access my applications with ease. Currently, I am working with MongoDB, NodeJS, Express, React, and Redux to accomplish this dream. To view examples of my code, please visit my [github](https://github.com/austinwk) page. I truly believe that programming has the power to change the lives of people everywhere and would love to be part of the driving force behind that change.
+I am passionate about software that enhances the lives of workers by automating away monotony and providing tools that enable, rather than hinder, productivity.
+
+IT professional at OU Parking Services – 2 years
+- Support for [T2](http://www.t2systems.com/home) ecosystem – Oracle database + proprietary front-end and middleware
+- Python and SQL: data analysis, financial reconciliation, automating emailing and invoicing
+
+Current projects:
+- [Invoice Tracker](https://github.com/austinwk/invoice_tracker): a Node, MongoDB, and Express back-end for tracking invoices
+- [Hacktoberfest Leaderboard](https://github.com/austinwk/hacktoberfest_leaderboard): React, Express, Node, and MongoDB scoreboard for Techlahoma members participating in Hacktoberfest
 
 ### Ryan Johnson
 Software developer at MY Consulting Group. 10 years experience in graphic design and 4 years in software development. Co-organizer of [OKC#](https://www.meetup.com/OKC-Sharp/). Looking for people who want to get involved with Techlahoma, as well as trying to help those looking to learn or break into the industry. [LinkedIn](https://www.linkedin.com/in/ryankeithjohnson)
