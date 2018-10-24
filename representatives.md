@@ -36,6 +36,10 @@
 * Cody Crow
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer, Android Developer
 
+### Techlahoma
+* Kimberly Collins
+* Want to get more involved in the local tech community? Check our [Help Wanted Board](http://help-wanted.techlahoma.org) to find ways that you can volunteer!
+
 ### TEKsystems
 * Kim Hayes, Alex Miller, Kenzy Kinnaird
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer
