@@ -18,7 +18,7 @@
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer
 
 ### Mosaic Personnel
-* Adam Purdy, Sayra Martinez
+* Adam Purdy, Sayra Martinez, Jason Dallis
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer
 
 ### MY Consulting Group
