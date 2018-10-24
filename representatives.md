@@ -46,3 +46,4 @@
 
 ### Tom Love Innovation Hub
 * Kristin Garcia
+* Increasing innovation and entrepreneurship across The University of Oklahoma and our community. Learn more at http://www.ou.edu/innovationhub
