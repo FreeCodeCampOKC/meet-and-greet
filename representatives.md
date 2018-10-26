@@ -1,5 +1,9 @@
 ## If you'll be representing your company or organization at our [Community Meet and Greet](https://www.meetup.com/FreeCodeCampOKC/events/254966670/) on October 29, feel free to add a short description here!
 
+### Addison Group
+* Blake Honeycutt and 2 others
+* Hiring for Mid-Level Software/Web Developer, Senior-Level Software/Web Developer
+
 ### Clevyr
 * Mike Slack, Makenzie Hill
 * Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer
