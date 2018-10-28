@@ -45,3 +45,6 @@ Software developer at MY Consulting Group. 10 years experience in graphic design
 
 ### Joe Matthews
 Father, friend & programmer.  More than 10 years of IT related experience and 4+ years of full stack experience using Ruby, Rails, Bootstrap, jQuery & PostgreSQL. Currently focusing on learning and applying front-end JavaScript frameworks. Looking to join a motivated team that develops software using agile principles.
+
+### Hong Langford
+freeCodeCamp Front End Development Certification + Strong Mathematics Background. I have done more than 10 projects in Reactjs, jQuery, and Java. Look for software developer or business analyst jobs. Here is my [portfolio](https://codepen.io/designbuildshipsoftware-the-decoder/full/BqbwGO/).
