@@ -50,4 +50,4 @@ Father, friend & programmer.  More than 10 years of IT related experience and 4+
 freeCodeCamp Front End Development Certification + Strong Mathematics Background. I have done more than 10 projects in Reactjs, jQuery, and Java. Looking for a job as a software developer or business analyst. Here is my [portfolio](https://codepen.io/designbuildshipsoftware-the-decoder/full/BqbwGO/).
 
 ### Tim Watson
-23 year digital design and development veteran currently looking for my next opportunity. Former owner/creative director of [Visual Inventor] (https://www.flickr.com/photos/visualinventor). My current [portfolio can be found here](http://wittmason.com) and my [CV is here](http://wittmason.com/curriculum-vitae). I'm looking forward to meeting you all.
+23 year digital design and development veteran currently looking for my next opportunity. Former owner/creative director of [Visual Inventor](https://www.flickr.com/photos/visualinventor). My current [portfolio can be found here](http://wittmason.com) and my [CV is here](http://wittmason.com/curriculum-vitae). I'm looking forward to meeting you all.
