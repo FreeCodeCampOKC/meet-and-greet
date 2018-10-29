@@ -51,3 +51,10 @@
 ### Tom Love Innovation Hub
 * Kristin Garcia
 * Increasing innovation and entrepreneurship across The University of Oklahoma and our community. Learn more at http://www.ou.edu/innovationhub
+
+### PCI
+* Brandon Johnson, Luigi Polvani, Andres Barbaro
+* Hiring for Entry-Level Software/Web Developer, Mid-Level Software/Web Developer, Senior-Level Software/Web Developer, UI/UX Developer
+* Hiring Business, Data, and Quality Analysis who want to code to make their job easier, better, and fun (automation)
+* We're a Norman-based software company with strong Engineering and Product Development teams.  Our software helps Energy Companies deliver Power to you. 
+https://www.linkedin.com/company/power-costs-inc.-pci/
